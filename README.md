@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umesh Shingare</h1>
-<h3 align="center">Full-Stack Developer | AI & Cloud Enthusiast</h3>
+<h3 align="center">Building Scalable Web Apps | Crafting Clean Code | Exploring AI & Cloud</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umesh-shingare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -41,4 +41,4 @@
 
 ---
 
-<p align="center">“Building scalable systems and writing clean code is my passion.”</p>
+<p align="center">“Turning ideas into scalable, maintainable, and elegant solutions, one line of code at a time.”</p>
