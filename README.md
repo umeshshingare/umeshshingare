@@ -7,6 +7,22 @@
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umeshshingare" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/umesh2003" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/umeshshingare" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
 ## 💻 Programming & Web Technologies
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -49,3 +65,7 @@
 ---
 
 <p align="center">💡 Passionate about building efficient, scalable, and innovative solutions using cutting-edge technologies.</p>
+
+---
+
+<p align="center">⭐ Always learning, building, and improving 🚀</p>
